@@ -1,0 +1,43 @@
+<scheme name="_@user_ReSharper Light" version="142" parent_scheme="ReSharper Light">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-08-03T12:26:27</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2017.1.0.0</property>
+    <property name="modified">2017-08-21T11:38:58</property>
+    <property name="originalScheme">ReSharper Light</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7f7f7f" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7f7f7f" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="7f7f7f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7f7f7f" />
+      </value>
+    </option>
+    <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="BACKGROUND" value="ffe1e6" />
+        <option name="EFFECT_COLOR" value="ff8080" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
