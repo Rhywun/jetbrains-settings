@@ -20,8 +20,12 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="alt page_up" />
   </action>
+  <action id="NextProjectWindow" />
   <action id="RdCodeCleanupAction">
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
+  </action>
+  <action id="ReSharperNavigateTo">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="Rider.Plugins.FSharp.SendToFsi">
     <keyboard-shortcut first-keystroke="meta enter" />
