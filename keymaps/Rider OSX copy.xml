@@ -1,0 +1,34 @@
+<keymap version="1" name="Rider OSX copy" parent="Rider OSX">
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="EditorScrollDownAndMove">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="EditorScrollUpAndMove">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="NextProjectWindow" />
+  <action id="RdCodeCleanupAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
+  </action>
+  <action id="ReSharperNavigateTo">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
+  <action id="Rider.Plugins.FSharp.SendToFsi">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="ViewSource" />
+</keymap>

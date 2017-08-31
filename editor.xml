@@ -1,9 +1,11 @@
 <application>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
-    <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="IS_CAMEL_WORDS" value="true" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
@@ -13,8 +15,5 @@
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
