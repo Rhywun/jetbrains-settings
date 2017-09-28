@@ -1,9 +1,15 @@
 <keymap version="1" name="Rider copy" parent="Rider">
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
   <action id="RdCodeCleanupAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
