@@ -159,7 +159,6 @@
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="2aa198" />
-        <option name="EFFECT_COLOR" value="2aa198" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -249,7 +248,7 @@
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="859900" />
-        <option name="EFFECT_COLOR" value="859900" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
