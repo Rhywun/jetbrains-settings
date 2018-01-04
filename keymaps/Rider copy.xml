@@ -11,6 +11,11 @@
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
+  <action id="InsertLiveTemplate" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="RdCodeCleanupAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
   </action>
