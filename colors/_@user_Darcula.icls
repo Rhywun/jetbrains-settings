@@ -4,7 +4,7 @@
     <property name="created">2017-08-02T20:43:30</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2018-01-08T20:48:49</property>
+    <property name="modified">2018-05-06T02:38:20</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -12,6 +12,18 @@
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="769aa5" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="ReSharper.ASP_NET_MVC_ACTION">
       <value>
         <option name="EFFECT_COLOR" value="ffff" />
