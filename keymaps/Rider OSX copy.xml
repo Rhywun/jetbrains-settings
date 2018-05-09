@@ -84,5 +84,8 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
+  <action id="SilentCodeCleanup">
+    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
+  </action>
   <action id="ViewSource" />
 </keymap>
