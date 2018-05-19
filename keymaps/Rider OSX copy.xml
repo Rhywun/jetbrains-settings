@@ -9,6 +9,7 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
+  <action id="BaseOnThisFunction" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
   </action>
@@ -87,5 +88,10 @@
   <action id="SilentCodeCleanup">
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
+  <action id="SmartSearchAction">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="ViewSource" />
 </keymap>
