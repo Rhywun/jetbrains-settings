@@ -10,11 +10,12 @@
           <option name="url" value="https://github.com/Rhywun/functional-programming-in-csharp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JonPSmith/EfCoreInAction" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\18468\Developer\Books\DotNET\Functional Programming in C#" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+    <option name="cloneParentDir" value="$USER_HOME$/Developer/Books/DotNET/Entity Framework Core in Action" />
   </component>
 </application>
