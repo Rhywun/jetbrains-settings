@@ -3,7 +3,7 @@
     <property name="created">2019-01-06T12:49:43</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-02-23T02:09:30</property>
+    <property name="modified">2019-02-23T20:33:42</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -25,7 +25,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -118,6 +118,11 @@
     <option name="ReSharper.ASP_NET_RAZOR_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="ReSharper.NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="bbc197" />
       </value>
     </option>
     <option name="SUGGESTION">
